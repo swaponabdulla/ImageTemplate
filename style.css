@@ -1,0 +1,38 @@
+*{margin: 0; padding: 0;} 
+
+header{
+	background: #09791c;
+	border-bottom: 4px solid red;
+}
+nav ul{
+	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li{
+	
+	display: inline-block;
+
+
+
+}
+ 
+ nav ul li a{
+ padding: 15px 25px;
+ display:inline-block;
+	text-decoration: none;
+	color: #fff;
+ }
+ nav ul li a:hover{
+ 	background-color: red;
+ 	transition: all ease-out.3s;
+ }
+ p{
+ 	background-image: url(image.jpg);
+ 	text-align:justify;
+ 	background-repeat: no-repeat; 
+ 	background-size:100% 100%;
+ 	color: #fff;
+
+
+ }
